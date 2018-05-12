@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8633'
     url: http://www.gutenberg.org/2009/agents/8633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19380#Anzeiger-des-Germanischen-Nationalmuseums-Jg.-1900
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
